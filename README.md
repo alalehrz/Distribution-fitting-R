@@ -1,5 +1,5 @@
 # Distribution-fitting-R
-Distribution fitting is useful for the tasks such as risk measurement. In this project, I used R fitdistrplus package to fit some families of distributions to some randomly generated data. Please note that this is a **parametric analysis**. Also, I obtained CI for parameters of the model using bootstraping. Several graphs including the Q-Q plot is build running the code, look for S shaped graphs as they show a weak fit! After fitting distributions, its time for measuring goodness-of-fits. There are severam methods to compare different distributions and picking the best family. 
+Distribution fitting is useful for the tasks such as risk measurement. In this project, I used R fitdistrplus package to fit some families of distributions to some randomly generated data. Please note that this is a **parametric analysis**. Also, I obtained CI for parameters of the model using bootstraping. Several graphs including the Q-Q plot is built running the code, look for S shaped graphs as they show a weak fit! After fitting distributions, its time for measuring goodness-of-fits. There are severam methods to compare different distributions and picking the best family. 
 Three goodness-of-fit are used with following considerations:
 
 **Kolmogorov-Smirnov (KS)**
