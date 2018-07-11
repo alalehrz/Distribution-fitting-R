@@ -34,5 +34,6 @@ Three goodness-of-fit are used with following considerations:
 + Theoretically difficult to compare different distributions
 
 **AIC & BIC**
+
 Both of AIC and BIC  are used as model selection metrics. They measure the tradeoff between complexity and goodness of fit. Lower values for these metrics imply a better fit.
 
